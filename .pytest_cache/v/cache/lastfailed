@@ -1,0 +1,4 @@
+{
+  "create_user_test.py::test_create_user_has_space_in_first_name_get_error_response": true,
+  "create_user_test.py::test_create_user_number_type_first_name_get_error_response": true
+}

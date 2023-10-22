@@ -1,0 +1,14 @@
+[
+  "create_user_test.py::test_create_user_15_letter_in_first_name_get_success_response",
+  "create_user_test.py::test_create_user_16_letter_in_first_name_get_error_response",
+  "create_user_test.py::test_create_user_1_letter_in_first_name_get_error_response",
+  "create_user_test.py::test_create_user_2_letter_in_first_name_get_success_response",
+  "create_user_test.py::test_create_user_empty_first_name_get_error_response",
+  "create_user_test.py::test_create_user_english_letter_in_first_name_get_success_response",
+  "create_user_test.py::test_create_user_has_number_in_first_name_get_error_response",
+  "create_user_test.py::test_create_user_has_space_in_first_name_get_error_response",
+  "create_user_test.py::test_create_user_has_special_symbol_in_first_name_get_error_response",
+  "create_user_test.py::test_create_user_no_first_name_get_error_response",
+  "create_user_test.py::test_create_user_number_type_first_name_get_error_response",
+  "create_user_test.py::test_create_user_russian_letter_in_first_name_get_success_response"
+]
